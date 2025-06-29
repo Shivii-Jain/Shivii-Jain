@@ -12,6 +12,6 @@
 - Web Development
 
 ## Connect with Me
-- LinkedIn: [your LinkedIn](https://www.linkedin.com/in/your-profile/)
+- LinkedIn: [shivi-khimesara](https://www.linkedin.com/in/shivi-khimesara/)
 
 
